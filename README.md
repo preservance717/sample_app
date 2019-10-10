@@ -20,5 +20,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+* [demo演示](https://obscure-mesa-11890.herokuapp.com/)
 
 * ...
