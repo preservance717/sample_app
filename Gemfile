@@ -28,7 +28,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'faker', '1.6.3'
 gem 'carrierwave', '0.11.2'
 gem 'fog', '1.38.0'
-gem 'bootstrap-sass', '3.3.6'
+gem 'bootstrap-sass', '3.4.1'
 gem 'jquery-rails', '4.1.1'
 
 # Use ActiveStorage variant
