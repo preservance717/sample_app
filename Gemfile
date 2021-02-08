@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 gem 'faker', '1.6.3'
-gem 'carrierwave', '0.11.2'
+gem 'carrierwave', '1.3.2'
 gem 'fog', '1.38.0'
 gem 'bootstrap-sass', '3.4.1'
 gem 'jquery-rails', '4.1.1'
